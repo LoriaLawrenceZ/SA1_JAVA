@@ -93,7 +93,7 @@ public class Exercicios {
             System.out.println("O valor a ser pago é de "+ valorCOMdesconto +" R$ (reais)");
         }
         else{
-            System.out.println("O valor a ser pago é de "+ valorTotal+" R$ (reais)");
+            System.out.println("O valor a ser pago é de "+ valorTotal +" R$ (reais)");
         }
     }
 }
