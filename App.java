@@ -32,6 +32,11 @@ public class App {
                     System.out.println("----====Encerrando Programa====----");
                     escolha = "N";
                     break;
+                
+                case "s":
+                    System.out.println("----====Encerrando Programa====----");
+                    escolha = "N";
+                    break;
     
                 default:
                     System.out.println("Insira um valor válido da próxima vez");
